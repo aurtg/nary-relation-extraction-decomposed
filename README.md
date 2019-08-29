@@ -4,11 +4,13 @@ This repository contains implementations of the proposed method and baseline met
 
 ## Data
 
-Following data files are required to run codes. Dataset will be made available soon.
+Following data files are required to run codes.
 Also, see [data/README.md](data/README.md) for the dataset format.
 
+Wiki-90k and WF-20k dataset is available [here](https://github.com/aurtg/n-ary-dataset).
+
 ```
-data/glove.6B.300d.txt # You can download it from here (https://nlp.stanford.edu/projects/glove/).
+data/glove.6B.300d.txt # You can download it from here (http://nlp.stanford.edu/data/glove.6B.zip).
 data/Wiki-90k/train
 data/Wiki-90k/dev
 data/Wiki-90k/test
