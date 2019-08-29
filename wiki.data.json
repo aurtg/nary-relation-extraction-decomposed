@@ -1,0 +1,10 @@
+{
+  "data":"data/Wiki-90k/{}",
+  "predicates": {
+    "CastAs":0,
+    "ChildOf":1,
+    "DirectedBy":2,
+    "AppearInGenre":3
+  },
+  "arities": [3,3,3,3]
+}

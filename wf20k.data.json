@@ -1,0 +1,25 @@
+{
+  "data":"data/WF-20k/{}_red.json",
+  "predicates": {
+    "american_football.player_game_statistics.player.season.team": 0,
+    "architecture.structure.ROOT.architect.architectural_style": 1,
+    "cvg.computer_videogame.cvg_genre.developer.game_series": 2,
+    "cvg.computer_videogame.cvg_genre.game_series.publisher": 3,
+    "film.performance.actor.character.film": 4,
+    "geography.lake.ROOT.basin_countries.outflow": 5,
+    "geography.river.ROOT.basin_countries.origin": 6,
+    "geography.river.ROOT.mouth.origin": 7,
+    "music.artist.ROOT.genre.origin": 8,
+    "music.group_membership.group.member.role": 9,
+    "music.recording.artist.producer.song": 10,
+    "olympics.olympic_athlete_affiliation.athlete.olympics.sport": 11,
+    "olympics.olympic_medal_honor.country.medalist.olympics": 12,
+    "organization.leadership.organization.person.role": 13,
+    "organization.organization.ROOT.founders.place_founded": 14,
+    "sports.sports_team_roster.player.position.team": 15,
+    "transportation.bridge.ROOT.body_of_water_spanned.bridge_type": 16,
+    "transportation.bridge.ROOT.body_of_water_spanned.locale": 17,
+    "tv.regular_tv_appearance.actor.character.series": 18
+  },
+  "arities": [3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3]
+}
