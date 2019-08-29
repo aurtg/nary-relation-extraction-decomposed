@@ -5,6 +5,7 @@ This repository contains implementations of the proposed method and baseline met
 ## Data
 
 Following data files are required to run codes. Dataset will be made available soon.
+Also, see [data/README.md](data/README.md) for the dataset format.
 
 ```
 data/glove.6B.300d.txt # You can download it from here (https://nlp.stanford.edu/projects/glove/).
